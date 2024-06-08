@@ -3,9 +3,9 @@ from info import DATABASE_URI
 # Bot information
 SESSION = 'Media_search'
 USER_SESSION = 'User_Bot'
-API_ID = 12345
-API_HASH = '0123456789abcdef0123456789abcdef'
-BOT_TOKEN = '123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11'
+API_ID = 26626715
+API_HASH = '967f1c73aa77a29009bc364edd30b525'
+BOT_TOKEN = '7400707493:AAGbj53YNBBzYmVw_oqZUS1j3kkBPWyA_Os'
 USERBOT_STRING_SESSION = ''
 
 # Bot settings
@@ -19,7 +19,7 @@ AUTH_USERS = []
 AUTH_CHANNEL = None
 
 # MongoDB information
-DATABASE_NAME = 'Telegram'
+DATABASE_NAME = 'DQ FILTER BOT'
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
 
 #temp dict for storing the db uri which will be used for storing user, chat and file infos
